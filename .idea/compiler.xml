@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="laba_3" />
         <module name="laba_5" />
+        <module name="laba_6" />
         <module name="laba_1" />
         <module name="laba_2" />
       </profile>
